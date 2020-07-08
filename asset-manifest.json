@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hc_desafio03/static/css/main.942569fd.chunk.css",
-    "main.js": "/hc_desafio03/static/js/main.d752c24e.chunk.js",
-    "main.js.map": "/hc_desafio03/static/js/main.d752c24e.chunk.js.map",
+    "main.js": "/hc_desafio03/static/js/main.0f36107a.chunk.js",
+    "main.js.map": "/hc_desafio03/static/js/main.0f36107a.chunk.js.map",
     "runtime-main.js": "/hc_desafio03/static/js/runtime-main.a1aae2a4.js",
     "runtime-main.js.map": "/hc_desafio03/static/js/runtime-main.a1aae2a4.js.map",
     "static/css/2.37865b2a.chunk.css": "/hc_desafio03/static/css/2.37865b2a.chunk.css",
     "static/js/2.771394c2.chunk.js": "/hc_desafio03/static/js/2.771394c2.chunk.js",
     "static/js/2.771394c2.chunk.js.map": "/hc_desafio03/static/js/2.771394c2.chunk.js.map",
     "index.html": "/hc_desafio03/index.html",
-    "precache-manifest.d2f3cdf9cd70d15e4896b8f65819684b.js": "/hc_desafio03/precache-manifest.d2f3cdf9cd70d15e4896b8f65819684b.js",
+    "precache-manifest.195ab20cd44b2539a30bdf3ee88dfdc1.js": "/hc_desafio03/precache-manifest.195ab20cd44b2539a30bdf3ee88dfdc1.js",
     "service-worker.js": "/hc_desafio03/service-worker.js",
     "static/css/2.37865b2a.chunk.css.map": "/hc_desafio03/static/css/2.37865b2a.chunk.css.map",
     "static/css/main.942569fd.chunk.css.map": "/hc_desafio03/static/css/main.942569fd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.37865b2a.chunk.css",
     "static/js/2.771394c2.chunk.js",
     "static/css/main.942569fd.chunk.css",
-    "static/js/main.d752c24e.chunk.js"
+    "static/js/main.0f36107a.chunk.js"
   ]
 }
